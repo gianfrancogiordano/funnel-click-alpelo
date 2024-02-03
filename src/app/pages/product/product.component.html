@@ -1,6 +1,6 @@
 <!-- Inicio de landing -->
 <div class="container text-center">
-    <div class="product-description mt-3 mb-5" [innerHtml]="marketService.producto.descripcion | noSanitize"></div>
+    <div class="product-description" [innerHtml]="marketService.producto.descripcion | noSanitize"></div>
 
     <app-slider-product-img [images]="marketService.producto.images"></app-slider-product-img>
 

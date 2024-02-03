@@ -7,10 +7,10 @@ export const environment = {
   base_url: 'http://localhost:8000/api/v1',
   wsUrl: 'http://localhost:8000',
   cloudFront: 'https://d3cj1y2eynyat2.cloudfront.net',
-  clickstoreId: '65b0641c4a8fd006d2765113',
-  clicstoreDomain: 'calzadodante.getcs.link',
-  pixel: '346183598232140',
-  apiFB: 'EAAMZCiP7UQcUBO2kBHgNbbCoeGEy9wM9ZBvjZACpFL6yuOyCKGeU8AMlebj5a5DBX7Y6vLfaxYtaVQwBqJBewc7Csohohq02EK8SSAffrwjvrdJugKzIxvSbzxE9EnZC7Rhx8CEWbE0N95yLAY8R5S9liZA64jpbD5YkzsaZBwwkBRXNMKlZCV8XO3ZAxmkSsBReNwZDZD'
+  clickstoreId: '65148d449f932e07bf93e0b0',
+  clicstoreDomain: 'https://shop.alpelocol.com',
+  pixel: '1411759042749299',
+  apiFB: 'EAAJVxS9CCwMBO3Q6JX9ZAK6oG1mRuogimAon23JJf9TEnBybhrHt0whHKaUQq59T2GDxx27yut7n32zMy3Ao2XK2dLmNZC1j8PaSbbLobV9auIYaRsKssaqZCOamx673pRDud82mYq8ZChwoZBZCjUIGQBG4EoW6JzmMdEOkayV9TshqSc32Fuw46j0WRCfn0oUAZDZD'
 };
 
 /*
